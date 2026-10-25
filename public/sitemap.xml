@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://limparapido.pt/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-PT" href="https://limparapido.pt/"/>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://limparapido.pt/images/logo-lr.png</image:loc>
+      <image:title>LR Limpa Rápido - Limpezas Domésticas</image:title>
+      <image:caption>Logótipo da LR Limpa Rápido, empresa de limpezas na Margem Sul de Lisboa</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://limparapido.pt/images/antes-depois-frigorifico.jpg</image:loc>
+      <image:title>Antes e depois de limpeza de frigorífico</image:title>
+      <image:caption>Resultado de uma limpeza feita pela equipa LR Limpa Rápido</image:caption>
+    </image:image>
+  </url>
+</urlset>
